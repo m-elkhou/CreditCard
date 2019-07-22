@@ -6,9 +6,10 @@ Credit Card Management (Android Mobile Application)
 - Using Design Patterns.
 
 ## CreditCardClient
+Android Mobile Application is [here](https://github.com/m-elkhou/CreditCard/tree/master/app)
 
 ## CreditCardServer
-(Developed in Netbeans 8) is [here](https://github.com/m-elkhou/CreditCard/tree/master/Cd)
+JEE Web Application (Developed in Netbeans 8) is [here](https://github.com/m-elkhou/CreditCard/tree/master/Cd)
 ```
 - Project can be direct started in Netbeans 8 (Glassfish 5)
 ```
