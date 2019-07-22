@@ -1,9 +1,9 @@
 # CreditCard
- Gestion des cartes bancaires
+Credit Card Management (Android Mobile Application)
 
-- Consommation d'un service web à l'aide d’API RESTful.
-- Gestion de la base de données par JEE et API Volley.
-- Utilisation des désigne paternes.
+- Consuming a RESTful web service
+- Management of the database by JEE and API Volley.
+- Using Design Patterns.
 
 ***
 ### Links
