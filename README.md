@@ -5,7 +5,6 @@ Credit Card Management (Android Mobile Application)
 - Management of the database by JEE and Volley API.
 - Using Design Patterns.
 
-A representational state transfer (REST) API is a way to provide compatibility between computer systems on the internet.
 ## CreditCardClient
 
 ## CreditCardServer
