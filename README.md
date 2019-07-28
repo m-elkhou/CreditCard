@@ -10,7 +10,7 @@ Credit Card Management (Android Mobile Application)
 <img src="app/src/main/res/drawable/card.png" align="right" />
 
 ## CreditCardClient
-Android Mobile Application is [here](https://github.com/m-elkhou/CreditCard/tree/master/app)
+Android Mobile Application (Developed in Android Studio) is [here](https://github.com/m-elkhou/CreditCard/tree/master/app)
 
 <img src="Screens/1.png" align="Centre" />
 
