@@ -1,7 +1,7 @@
 <img src="app/src/main/res/drawable/icon.png" align="right" />
 
 # CreditCard
-Credit Card Management (Android Mobile Application)
+> Credit Card Management (Android Mobile Application)
 
 - Consuming a JEE RESTful web service
 - Management of the database by JEE and Volley API.
