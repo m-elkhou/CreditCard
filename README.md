@@ -26,6 +26,7 @@ JEE Web Application (Developed in Netbeans 8) is [here](https://github.com/m-elk
 ***
 ### Links
 - [E-mail : ](mailto:m.elkhou@hotmail.com) m.elkhou@hotmail.com
-- [Linkedin](https://www.linkedin.com/in/m-elkhou/)
-- [GitHub](https://github.com/m-elkhou)<br/>
+- [Linkedin : ](https://www.linkedin.com/in/m-elkhou/) m-elkhou
+- [GitHub : ](https://github.com/m-elkhou) m-elkhou
+- <br/>
 =>https://github.com/m-elkhou/CreditCard.git
